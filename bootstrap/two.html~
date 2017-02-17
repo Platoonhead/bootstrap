@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+       <head>
+              <script type="text/javascript" src="myjava.js"></script>  
+       </head>
+
+	<body>
+
+                      <input type="text" id="hello" style="border:none;color:green;font-size:50px;"/>
+
+                      <button onclick="fun()">Hello</button>                  
+
+	</body>
+
+
+</html>

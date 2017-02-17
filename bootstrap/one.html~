@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+       <head>
+                <meta charset="utf-8">
+                <meta name="viewport" content="width=device-width,initial-scale=1">
+		<script src="plugins/jquery.js"></script> 
+		<script type="text/javascript" src="plugins/bootstrap.min.js"></script> 
+		<link rel="stylesheet" href="plugins/bootstrap.min.css"/>
+		<script type="text/javascript" src="myjava.js"></script> 
+		<link rel="stylesheet" href="external.css"/>
+
+
+       </head>
+
+	<body >
+
+		<div class="container">
+
+                   <p>sssssssssssssssssssssssssssssssss <del>ttttt ssssssssssss</p>
+                   <p>sssssssssssssssssssssssssssssssssssssssssssssssssss ssssssssssssssssss</p>
+                   <p>sssssssssssssssssssss<span>&times</span> sssssssssssssssss sssssssssssssssssssssssssssssss</p>
+
+                   <p>ssssssssssssssssssss ssssssssssssssssssss ssssssssssss sssssss ssssssssss</p>
+                   <p>ssssssssssssssssssssssssss sssssssssssssssssssssss ssssssssssssssssssss</p>
+
+                   <p>sssssssssssssssssssss ssssssssssssssssss ssssssssssssssss ssssssssssssss</p>
+                   <p>ssssssssssssssssssssssssss ssssssssssssssssss sssssssssssssssssssssssss</p>
+
+                     <button class="btn-lg btn-primary" style="border-radius:50%;border:none;">ok</button>
+
+                 </div>               
+
+	</body>
+
+
+</html>
